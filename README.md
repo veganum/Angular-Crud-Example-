@@ -1,5 +1,16 @@
 # AngularCrud
 
+Crud sin conexion a base de datos en Angular
+                                          
+![image](https://user-images.githubusercontent.com/55087820/92532488-b0fdda80-f230-11ea-9cb9-9d8f5bf2733f.png)
+---
+
+
+.
+## License & Copyright
+© Jose Franco Nieto
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
